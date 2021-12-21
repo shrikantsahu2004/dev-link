@@ -46,3 +46,8 @@ References:
 Future Scope:
 
 UI Screens:
+
+![image](https://user-images.githubusercontent.com/59798672/146943766-db6ae521-394f-41ad-b7dc-a2495644494c.png)
+
+![image](https://user-images.githubusercontent.com/59798672/146943846-e03a3c2b-d4ff-4f14-b403-e6ef473757e6.png)
+
