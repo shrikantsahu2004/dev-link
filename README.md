@@ -3,7 +3,7 @@ DevLink
 A website where developers can connect to each other, share their profiles, work experience, knowledge and technologies.
 Screen reader support enabled.
 
-Installation
+Installation:
 
 1. Fork the repository
 2. Run the command 'npm i' to install all node modules(server)
@@ -11,6 +11,12 @@ Installation
 4. Run the command 'npm i' to install all node modules(client)
 5. Run the command npm run dev
 6. Check it on localhost:3000
+
+Dependencies:
+
+![image](https://user-images.githubusercontent.com/59798672/146941895-2cde657e-e4a4-41eb-b589-70f7124d0cff.png)
+
+![image](https://user-images.githubusercontent.com/59798672/146942036-a6618db6-df7e-4a6f-90c8-ddbb74a121ff.png)
 
 Technologies used:
 
