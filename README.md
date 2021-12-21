@@ -55,14 +55,13 @@ UI Screens:
 
 3. Create Profile Page:
 ![image](https://user-images.githubusercontent.com/59798672/146945864-110afc17-2d85-4f44-8ccd-53319a54b417.png)
-
 ![image](https://user-images.githubusercontent.com/59798672/146945900-16758cbd-c5c1-404c-8d64-d48e9b3e1518.png)
 
 4. Posts Page(All Posts):
 ![image](https://user-images.githubusercontent.com/59798672/146945980-bf2e0666-e1c7-4938-84a7-287be150e178.png)
 
+5. Comments Page(Of a particular post):
 ![image](https://user-images.githubusercontent.com/59798672/146946016-05f10c21-fae5-4e8b-a299-8f00e0798a5f.png)
-
 ![image](https://user-images.githubusercontent.com/59798672/146946082-e62b3b08-2db6-41d2-a344-bb94476a5e73.png)
 
 ![image](https://user-images.githubusercontent.com/59798672/146946109-7fd87e92-05a9-4076-a78c-f216bd04ad56.png)
