@@ -78,7 +78,11 @@ Screen reader support enabled.
 ![image](https://user-images.githubusercontent.com/59798672/146946865-cd9d80fb-9759-4720-901f-bc4cef2181c4.png)
 ![image](https://user-images.githubusercontent.com/59798672/146946894-f8a509b9-9458-4797-abc4-86168f6d5bf1.png)
 
+### Contributors:
 
+* Kamal Rohra
+* Sanket Saboo
+* Shrikant Sahu
 
 
 
