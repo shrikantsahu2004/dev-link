@@ -20,6 +20,23 @@ Technologies used:
 4. For authentication, we have made use of jwt tokens which expire after a certain time.
 5. githubclientId and githubSecret are used as a part of authorizing imports of github repositories in our website.
 
+Features:
+
+1. Users can register, login on our website.
+2. Users can add profile, edit profile, add/delete experience, add/delete education details. 
+3. Users (even if not signed in) can view other developers' profiles, their skill set, education and experience.
+4. Users (if signed in) can view all other developers' posts and like/unlike them and also comment on them(discussion thread, most recent comment at the top).
+5. Users can remove only their own posts and comments.
+
+References:
+
+Offical documentation for node, react, npm packages, jwt.
+Youtube
+MDN Docs
+Geeksforgeeks
+W3schools
+StackOverflow
+
 Future Scope:
 
 UI Screens:
