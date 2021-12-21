@@ -30,12 +30,12 @@ Features:
 
 References:
 
-Offical documentation for node, react, npm packages, jwt.
-Youtube
-MDN Docs
-Geeksforgeeks
-W3schools
-StackOverflow
+* Offical documentation for node, react, npm packages, jwt.
+* Youtube
+* MDN Docs
+* Geeksforgeeks
+* W3schools
+* StackOverflow
 
 Future Scope:
 
