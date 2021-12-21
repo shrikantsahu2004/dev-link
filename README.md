@@ -47,14 +47,18 @@ Future Scope:
 
 UI Screens:
 
+1. Signup Page:
 ![image](https://user-images.githubusercontent.com/59798672/146943766-db6ae521-394f-41ad-b7dc-a2495644494c.png)
 
+2. Signin Page:
 ![image](https://user-images.githubusercontent.com/59798672/146943846-e03a3c2b-d4ff-4f14-b403-e6ef473757e6.png)
 
+3. Create Profile Page:
 ![image](https://user-images.githubusercontent.com/59798672/146945864-110afc17-2d85-4f44-8ccd-53319a54b417.png)
 
 ![image](https://user-images.githubusercontent.com/59798672/146945900-16758cbd-c5c1-404c-8d64-d48e9b3e1518.png)
 
+4. Posts Page(All Posts):
 ![image](https://user-images.githubusercontent.com/59798672/146945980-bf2e0666-e1c7-4938-84a7-287be150e178.png)
 
 ![image](https://user-images.githubusercontent.com/59798672/146946016-05f10c21-fae5-4e8b-a299-8f00e0798a5f.png)
