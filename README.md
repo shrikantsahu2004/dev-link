@@ -1,4 +1,4 @@
-###DevLink
+### DevLink
 
 A website where developers can connect to each other, share their profiles, work experience, knowledge and technologies.
 Screen reader support enabled.
